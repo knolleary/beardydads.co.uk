@@ -4,7 +4,7 @@ layout: default
 <article class="post type-post status-publish format-standard hentry category-episodes">
     <div class="entry-meta side">
         <span class="posted-on">
-            <a href="{{ page.url }}" rel="bookmark"><time class="entry-date" datetime="2015-01-12T16:58:05+00:00" pubdate>January 12, 2015</time></a>
+            <a href="{{ page.url }}" rel="bookmark"><time class="entry-date" datetime="{{ page.date }}" pubdate>{{ page.date | date_to_long_string: "ordinal" }}</time></a>
         </span>
     </div><!-- .entry-meta -->
 
