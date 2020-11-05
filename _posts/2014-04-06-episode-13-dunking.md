@@ -19,7 +19,7 @@ Soft play, swimming and some more books all come up in episode 13.
 
 [Download this episode](http://beardydads.co.uk/episodes/beardydads-ep13-20140406.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
 
-If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk>, leave a comment below or [tweet us](http://twitter.com/beardydads).
+If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 
 ##### Links
 

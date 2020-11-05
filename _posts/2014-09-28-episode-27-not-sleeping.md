@@ -19,4 +19,4 @@ Yet more feedback on our favourite bottle prep machine, libraries and a general 
 
 [Download this episode](http://beardydads.co.uk/episodes/beardydads-ep27-20140928.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
 
-If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk>, leave a comment below or [tweet us](http://twitter.com/beardydads).
+If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).

@@ -19,7 +19,7 @@ We&#8217;re back for more. This week we talk about finding out the sex of your b
 
 [Download this episode](http://beardydads.co.uk/episodes/beardydads-ep02-20140119.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads).
 
-You can now also find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734). If you have anything to share with us, you can email us at <podcast@beardydads.co.uk>, leave a comment below or [tweet us](http://twitter.com/beardydads).
+You can now also find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734). If you have anything to share with us, you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 
 ##### Links
 

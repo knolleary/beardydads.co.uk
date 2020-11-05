@@ -21,7 +21,7 @@ This week we hear from [David Monro](https://twitter.com/davidmonro_) on his exp
 
 Many thanks to David, Andy Feltham, Mike Perry, Derek Murphy and Andrew Fitzpatrick for getting in contact.
 
-If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk>, leave a comment below or [tweet us](http://twitter.com/beardydads).
+If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 
 ##### Links
 

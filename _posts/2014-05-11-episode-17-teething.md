@@ -19,7 +19,7 @@ After a week off, we&#8217;re back with Episode 17 full of teething, rainmakers 
 
 [Download this episode](http://beardydads.co.uk/episodes/beardydads-ep17-20140511.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
 
-If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk>, leave a comment below or [tweet us](http://twitter.com/beardydads).
+If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 
 ##### Links
 

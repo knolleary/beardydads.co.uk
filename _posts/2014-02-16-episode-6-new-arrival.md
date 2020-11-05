@@ -21,7 +21,7 @@ With the arrival of Nick&#8217;s baby, we talk about how it was the second time.
 
 Many thanks to David, Dave and Aaron for contributing.
 
-If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk>, leave a comment below or [tweet us](http://twitter.com/beardydads).
+If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 
 ##### Links
 

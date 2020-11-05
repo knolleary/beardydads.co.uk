@@ -13,7 +13,7 @@ Coping with caffine, sharing news and photos, nodding at strangers and sterilisi
 
 [Download this episode](http://beardydads.co.uk/episodes/beardydads-ep03-20140126.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734).
 
-If you want to contribute, you can email us at <podcast@beardydads.co.uk>, leave a comment below or [tweet us](http://twitter.com/beardydads).
+If you want to contribute, you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 
 ##### Links
 
