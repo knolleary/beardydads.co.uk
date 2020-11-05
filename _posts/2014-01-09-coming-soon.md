@@ -4,7 +4,7 @@ title: Coming Soon
 date: 2014-01-09T00:51:22+00:00
 author: Nick
 layout: post
-guid: http://beardydads.co.uk/?p=7
+guid: https://beardydads.co.uk/?p=7
 permalink: /2014/01/coming-soon/
 categories:
   - Uncategorized

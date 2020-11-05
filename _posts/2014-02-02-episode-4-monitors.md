@@ -4,11 +4,11 @@ title: 'Episode 4: Monitors'
 date: 2014-02-02T19:53:29+00:00
 author: Nick
 layout: post
-guid: http://beardydads.co.uk/?p=40
+guid: https://beardydads.co.uk/?p=40
 permalink: /2014/02/episode-4-monitors/
 enclosure:
   - |
-    http://beardydads.co.uk/episodes/beardydads-ep04-20140202.mp3
+    https://beardydads.co.uk/episodes/beardydads-ep04-20140202.mp3
     47384007
     audio/mpeg
     
@@ -17,7 +17,7 @@ categories:
 ---
 With Nick&#8217;s baby now overdue, we stay on schedule for episode 4. We compare notes on baby monitors, getting sleep and answer a listener&#8217;s baby-throwing question. We also hear from listener, Rob Grundel, on how he prepared his 3 year old son for the arrival of his new baby brother.
 
-[Download this episode](http://beardydads.co.uk/episodes/beardydads-ep04-20140202.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review!
+[Download this episode](https://beardydads.co.uk/episodes/beardydads-ep04-20140202.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review!
 
 If you want to contribute, you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 

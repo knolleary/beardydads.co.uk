@@ -4,11 +4,11 @@ title: 'Episode 1: Births'
 date: 2014-01-12T22:55:01+00:00
 author: Nick
 layout: post
-guid: http://beardydads.co.uk/?p=17
+guid: https://beardydads.co.uk/?p=17
 permalink: /2014/01/episode-1-births/
 enclosure:
   - |
-    http://beardydads.co.uk/episodes/beardydads-ep01-20140112.mp3
+    https://beardydads.co.uk/episodes/beardydads-ep01-20140112.mp3
     54565234
     audio/mpeg
     
@@ -17,7 +17,7 @@ categories:
 ---
 In this episode, we start at the beginning and talk about our experiences of birth
 
-[Download this episode](http://beardydads.co.uk/episodes/beardydads-ep01-20140112.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads).
+[Download this episode](https://beardydads.co.uk/episodes/beardydads-ep01-20140112.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads).
 
 ##### Links
 

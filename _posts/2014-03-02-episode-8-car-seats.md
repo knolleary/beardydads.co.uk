@@ -4,11 +4,11 @@ title: 'Episode 8: Car Seats'
 date: 2014-03-02T20:33:42+00:00
 author: Nick
 layout: post
-guid: http://beardydads.co.uk/?p=63
+guid: https://beardydads.co.uk/?p=63
 permalink: /2014/03/episode-8-car-seats/
 enclosure:
   - |
-    http://beardydads.co.uk/episodes/beardydads-ep08-20140302.mp3
+    https://beardydads.co.uk/episodes/beardydads-ep08-20140302.mp3
     41792340
     audio/mpeg
     
@@ -17,7 +17,7 @@ categories:
 ---
 Two months in and we&#8217;re still going strong. The world of car seats and photo books are amongst the topics up for discussion, along with a slightly unusual contribution.
 
-[Download this episode](http://beardydads.co.uk/episodes/beardydads-ep08-20140302.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
+[Download this episode](https://beardydads.co.uk/episodes/beardydads-ep08-20140302.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
 
 If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads). Send us a 1-3 minute recording and we&#8217;ll include you in a future episode.
 

@@ -4,11 +4,11 @@ title: 'Episode 11: Routine'
 date: 2014-03-23T20:27:36+00:00
 author: Nick
 layout: post
-guid: http://beardydads.co.uk/?p=71
+guid: https://beardydads.co.uk/?p=71
 permalink: /2014/03/episode-11-routine/
 enclosure:
   - |
-    http://beardydads.co.uk/episodes/beardydads-ep11-20140323.mp3
+    https://beardydads.co.uk/episodes/beardydads-ep11-20140323.mp3
     41528399
     audio/mpeg
     
@@ -17,7 +17,7 @@ categories:
 ---
 Episode 11 brings you Roo doing his impressions of Oliver&#8217;s latest noises, Nick almost too tired to finish sentences and a discussion about routines.
 
-[Download this episode](http://beardydads.co.uk/episodes/beardydads-ep11-20140323.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
+[Download this episode](https://beardydads.co.uk/episodes/beardydads-ep11-20140323.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
 
 If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 

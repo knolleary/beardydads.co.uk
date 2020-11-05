@@ -4,11 +4,11 @@ title: 'Episode 5: Correspondence'
 date: 2014-02-09T21:30:49+00:00
 author: Nick
 layout: post
-guid: http://beardydads.co.uk/?p=48
+guid: https://beardydads.co.uk/?p=48
 permalink: /2014/02/episode-5-correspondence/
 enclosure:
   - |
-    http://beardydads.co.uk/episodes/beardydads-ep05-20140209.mp3
+    https://beardydads.co.uk/episodes/beardydads-ep05-20140209.mp3
     53000124
     audio/mpeg
     
@@ -17,7 +17,7 @@ categories:
 ---
 This week we hear from [David Monro](https://twitter.com/davidmonro_) on his experiences of having twins and answer some listener questions. We talk about how we handled the news of impending fatherhood, managed our paternity leave and came up with baby names.</p> 
 
-[Download this episode](http://beardydads.co.uk/episodes/beardydads-ep05-20140209.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
+[Download this episode](https://beardydads.co.uk/episodes/beardydads-ep05-20140209.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
 
 Many thanks to David, Andy Feltham, Mike Perry, Derek Murphy and Andrew Fitzpatrick for getting in contact.
 

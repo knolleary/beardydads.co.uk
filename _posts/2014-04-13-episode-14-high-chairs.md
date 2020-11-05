@@ -4,11 +4,11 @@ title: 'Episode 14: High Chairs'
 date: 2014-04-13T20:35:15+00:00
 author: Nick
 layout: post
-guid: http://beardydads.co.uk/?p=82
+guid: https://beardydads.co.uk/?p=82
 permalink: /2014/04/episode-14-high-chairs/
 enclosure:
   - |
-    http://beardydads.co.uk/episodes/beardydads-ep14-20140413.mp3
+    https://beardydads.co.uk/episodes/beardydads-ep14-20140413.mp3
     34659972
     audio/mpeg
     
@@ -17,7 +17,7 @@ categories:
 ---
 We&#8217;re back with more tips, reckons and contributions. Swimming, high chairs and photography are all discussed thanks to listener contributions. Have something you&#8217;d like us to talk about? Then get in touch!
 
-[Download this episode](http://beardydads.co.uk/episodes/beardydads-ep14-20140413.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
+[Download this episode](https://beardydads.co.uk/episodes/beardydads-ep14-20140413.mp3) or [subscribe to the podcast](http://feeds.feedburner.com/BeardyDads) or find us in [iTunes](https://itunes.apple.com/gb/podcast/beardy-dads/id798785734) and leave a review.
 
 If you have any tips, questions or general feedback you can email us at <podcast@beardydads.co.uk> or [tweet us](http://twitter.com/beardydads).
 
